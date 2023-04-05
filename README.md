@@ -1,5 +1,5 @@
 #### 1、使用激活工具 激活，双击打开
-“此处一定要断网”
+此处一定要断网
 
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1678933079636-a66e737a-6e98-401d-ad85-1c5a47961b90.png#averageHue=%23c9e3d9&clientId=ud918d948-4486-4&from=paste&id=u1d62763b&name=image.png&originHeight=34&originWidth=861&originalType=url&ratio=1.5&rotation=0&showTitle=false&size=4877&status=done&style=none&taskId=uc195e26e-dcb7-4a13-9aca-f0321906399&title=)
 #### 2、选择安装目录（目录一定要在navicat安装的根目录下，也就是instantclient_11_2文件夹的上一级）
